@@ -1,3 +1,11 @@
+Welcome to my movies website, utilizing the omdb api!
+
+The main page has some of my favorite films. 
+
+From this page, you can go into the edit page, change your profile if you wish, and furthermore, change the list of movies - adding to them, removing, and so on. Once that is saved, returning to the home page will display your new list of films, with poster, name, date, and synopsis!
+
+Below is boilerplate React App info:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
