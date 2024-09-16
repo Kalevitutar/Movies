@@ -5,7 +5,7 @@ import Movies from "./Pages/Movies/Movies";
 import Profile from "./Pages/Profile/Profile"
 
 function App() {
-  const [movieTitles, setMovieTitles] = useState(["Free Willy", "Frozen", "Titanic", "Moonlight", "Up", "Pulp Fiction", "The Negotiator"]);
+  const [movieTitles, setMovieTitles] = useState(["Mona Lisa", "The Stolen Children", "Gaslight", "Truly, Madly, Deeply", "Barbie", "Seabiscuit", "Leon: The Professional", "Noises Off"]);
 
   const [movies, setMovies]= useState([]);
 
